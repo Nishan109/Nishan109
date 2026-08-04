@@ -45,7 +45,7 @@ I am a **Cloud Engineer & Infrastructure Architect** specializing in building re
 #### 2. ☸️ [EKS Cluster with Terraform](https://github.com/Nishan109/eks-cluster-Terraform-)
 > Production Kubernetes cluster on AWS Elastic Kubernetes Service (EKS) automated using modular Terraform code.
 
-#### 3. 🐳 [AWS ECS Fargate Node App](https://github.com/Nishan109/aws-ecs-fargate-node-app)
+#### 3. 🐳 [Containerized Node.js Microservice on ECS Fargate](https://github.com/Nishan109/aws-ecs-fargate-node-app)
 > Containerized Node.js application deployed on serverless AWS ECS Fargate infrastructure.
 
 #### 4. 📝 [Notes App with AWS EC2 and RDS](https://github.com/Nishan109/Notes-App-with-AWS-EC2-and-RDS-)
